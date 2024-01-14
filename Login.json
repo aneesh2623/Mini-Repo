@@ -1,0 +1,223 @@
+[
+    {
+      "bookName": "The Power of Now",
+      "audioPath": "https://yourdomain.com/audio/power_of_now.mp3",
+      "bookImage": "https://example.com/power_of_now.jpg",
+      "bookId": "1001",
+      "bookAuthor": "Eckhart Tolle",
+      "bookDescription": "A guide to spiritual enlightenment.",
+      "isPlaying": false,
+      "languagetype": "English",
+      "ratings": [
+        {
+          "name": "Reader1",
+          "rating": 4.5
+        },
+        {
+          "name": "Reader2",
+          "rating": 5
+        }
+      ],
+      "genre": "Spirituality",
+      "id": "e021"
+    },
+    {
+      "bookName": "Becoming",
+      "audioPath": "https://yourdomain.com/audio/becoming.mp3",
+      "bookImage": "https://example.com/becoming.jpg",
+      "bookId": "1002",
+      "bookAuthor": "Michelle Obama",
+      "bookDescription": "Memoir of the former First Lady.",
+      "isPlaying": true,
+      "languagetype": "English",
+      "ratings": [
+        {
+          "name": "Reader3",
+          "rating": 4
+        },
+        {
+          "name": "Reader4",
+          "rating": 4.5
+        }
+      ],
+      "genre": "Biography",
+      "id": "e022"
+    },
+    {
+      "bookName": "Sapiens",
+      "audioPath": "https://yourdomain.com/audio/sapiens.mp3",
+      "bookImage": "https://example.com/sapiens.jpg",
+      "bookId": "1003",
+      "bookAuthor": "Yuval Noah Harari",
+      "bookDescription": "A brief history of humankind.",
+      "isPlaying": false,
+      "languagetype": "English",
+      "ratings": [
+        {
+          "name": "Reader5",
+          "rating": 4.7
+        },
+        {
+          "name": "Reader6",
+          "rating": 5
+        }
+      ],
+      "genre": "History",
+      "id": "e023"
+    },
+    {
+      "bookName": "Atomic Habits",
+      "audioPath": "https://yourdomain.com/audio/atomic_habits.mp3",
+      "bookImage": "https://example.com/atomic_habits.jpg",
+      "bookId": "1004",
+      "bookAuthor": "James Clear",
+      "bookDescription": "Tiny changes, remarkable results.",
+      "isPlaying": true,
+      "languagetype": "English",
+      "ratings": [
+        {
+          "name": "Reader7",
+          "rating": 4.8
+        },
+        {
+          "name": "Reader8",
+          "rating": 4.5
+        }
+      ],
+      "genre": "Self-Help",
+      "id": "e024"
+    },
+    {
+      "bookName": "The Alchemist",
+      "audioPath": "https://yourdomain.com/audio/alchemist.mp3",
+      "bookImage": "https://example.com/alchemist.jpg",
+      "bookId": "1005",
+      "bookAuthor": "Paulo Coelho",
+      "bookDescription": "A novel about following your dreams.",
+      "isPlaying": false,
+      "languagetype": "English",
+      "ratings": [
+        {
+          "name": "Reader9",
+          "rating": 4.9
+        },
+        {
+          "name": "Reader10",
+          "rating": 5
+        }
+      ],
+      "genre": "Fiction",
+      "id": "e025"
+    },
+    {
+      "bookName": "Educated",
+      "audioPath": "https://yourdomain.com/audio/educated.mp3",
+      "bookImage": "https://example.com/educated.jpg",
+      "bookId": "1006",
+      "bookAuthor": "Tara Westover",
+      "bookDescription": "Memoir of a woman who grows up in a strict household.",
+      "isPlaying": true,
+      "languagetype": "English",
+      "ratings": [
+        {
+          "name": "Reader11",
+          "rating": 4.5
+        },
+        {
+          "name": "Reader12",
+          "rating": 4
+        }
+      ],
+      "genre": "Biography",
+      "id": "e026"
+    },
+    {
+      "bookName": "The Subtle Art of Not Giving a F*ck",
+      "audioPath": "https://yourdomain.com/audio/subtle_art.mp3",
+      "bookImage": "https://example.com/subtle_art.jpg",
+      "bookId": "1007",
+      "bookAuthor": "Mark Manson",
+      "bookDescription": "A counterintuitive approach to living a good life.",
+      "isPlaying": false,
+      "languagetype": "English",
+      "ratings": [
+        {
+          "name": "Reader13",
+          "rating": 4.2
+        },
+        {
+          "name": "Reader14",
+          "rating": 4.8
+        }
+      ],
+      "genre": "Self-Help",
+      "id": "e027"
+    },
+    {
+      "bookName": "Born a Crime",
+      "audioPath": "https://yourdomain.com/audio/born_a_crime.mp3",
+      "bookImage": "https://example.com/born_a_crime.jpg",
+      "bookId": "1008",
+      "bookAuthor": "Trevor Noah",
+      "bookDescription": "Autobiography of the comedian Trevor Noah.",
+      "isPlaying": true,
+      "languagetype": "English",
+      "ratings": [
+        {
+          "name": "Reader15",
+          "rating": 4.6
+        },
+        {
+          "name": "Reader16",
+          "rating": 4.7
+        }
+      ],
+      "genre": "Biography",
+      "id": "e028"
+    },
+    {
+      "bookName": "Thinking, Fast and Slow",
+      "audioPath": "https://yourdomain.com/audio/thinking_fast_slow.mp3",
+      "bookImage": "https://example.com/thinking_fast_slow.jpg",
+      "bookId": "1009",
+      "bookAuthor": "Daniel Kahneman",
+      "bookDescription": "A Nobel laureate's exploration of the mind.",
+      "isPlaying": false,
+      "languagetype": "English",
+      "ratings": [
+        {
+          "name": "Reader17",
+          "rating": 4.8
+        },
+        {
+          "name": "Reader18",
+          "rating": 4.9
+        }
+      ],
+      "genre": "Psychology",
+      "id": "e029"
+    },
+    {
+      "bookName": "The Great Gatsby",
+      "audioPath": "https://yourdomain.com/audio/great_gatsby.mp3",
+      "bookImage": "https://example.com/great_gatsby.jpg",
+      "bookId": "1010",
+      "bookAuthor": "F. Scott Fitzgerald",
+      "bookDescription": "A classic American novel of love and ambition.",
+      "isPlaying": true,
+      "languagetype": "English",
+      "ratings": [
+        {
+          "name": "Reader19",
+          "rating": 4.5
+        },
+        {
+          "name": "Reader20",
+          "rating": 4.6
+        }
+      ],
+      "genre": "Fiction",
+      "id": "e030"
+    }
+  ]
+  
