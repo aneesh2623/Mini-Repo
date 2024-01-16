@@ -1,0 +1,319 @@
+[
+    {
+        "bookName": "The Hitchhiker's Guide to the Galaxy",
+        "audioPath": "https://yourdomain.com/audio/hitchhikers_guide.mp3",
+        "bookImage": "https://example.com/hitchhikers_guide.jpg",
+        "bookId": "1003",
+        "bookAuthor": "Douglas Adams",
+        "bookDescription": "A comedic science fiction series about an unwitting human and his alien friend's intergalactic adventures.",
+        "isPlaying": false,
+        "languagetype": "English",
+        "ratings": [
+            {
+                "name": "Reader5",
+                "rating": 4.2
+            },
+            {
+                "name": "Reader6",
+                "rating": 4.5
+            }
+        ],
+        "genre": "Science Fiction",
+        "id": "e023"
+    },
+    {
+        "bookName": "To Kill a Mockingbird",
+        "audioPath": "https://yourdomain.com/audio/to_kill_a_mockingbird.mp3",
+        "bookImage": "https://example.com/to_kill_a_mockingbird.jpg",
+        "bookId": "1004",
+        "bookAuthor": "Harper Lee",
+        "bookDescription": "A classic novel exploring racial injustice and moral growth in the American South.",
+        "isPlaying": false,
+        "languagetype": "English",
+        "ratings": [
+            {
+                "name": "Reader7",
+                "rating": 4.8
+            },
+            {
+                "name": "Reader8",
+                "rating": 4.6
+            }
+        ],
+        "genre": "Classic",
+        "id": "e024"
+    },
+    {
+        "bookName": "1984",
+        "audioPath": "https://yourdomain.com/audio/1984.mp3",
+        "bookImage": "https://example.com/1984.jpg",
+        "bookId": "1005",
+        "bookAuthor": "George Orwell",
+        "bookDescription": "A dystopian novel depicting a totalitarian society and the consequences of government overreach.",
+        "isPlaying": false,
+        "languagetype": "English",
+        "ratings": [
+            {
+                "name": "Reader9",
+                "rating": 4.7
+            },
+            {
+                "name": "Reader10",
+                "rating": 4.9
+            }
+        ],
+        "genre": "Dystopian Fiction",
+        "id": "e025"
+    },
+    {
+        "bookName": "The Catcher in the Rye",
+        "audioPath": "https://yourdomain.com/audio/catcher_in_the_rye.mp3",
+        "bookImage": "https://example.com/catcher_in_the_rye.jpg",
+        "bookId": "1007",
+        "bookAuthor": "J.D. Salinger",
+        "bookDescription": "A coming-of-age novel narrated by a disenchanted teenager.",
+        "isPlaying": false,
+        "languagetype": "English",
+        "ratings": [
+            {
+                "name": "Reader13",
+                "rating": 4.6
+            },
+            {
+                "name": "Reader14",
+                "rating": 4.2
+            }
+        ],
+        "genre": "Fiction",
+        "id": "e027"
+    },
+    {
+        "bookName": "The Lord of the Rings",
+        "audioPath": "https://yourdomain.com/audio/lord_of_the_rings.mp3",
+        "bookImage": "https://example.com/lord_of_the_rings.jpg",
+        "bookId": "1008",
+        "bookAuthor": "J.R.R. Tolkien",
+        "bookDescription": "A fantasy trilogy that follows the quest to destroy a powerful ring.",
+        "isPlaying": false,
+        "languagetype": "English",
+        "ratings": [
+            {
+                "name": "Reader15",
+                "rating": 4.9
+            },
+            {
+                "name": "Reader16",
+                "rating": 5
+            }
+        ],
+        "genre": "Fantasy",
+        "id": "e028"
+    },
+    {
+        "bookName": "Brave New World",
+        "audioPath": "https://yourdomain.com/audio/brave_new_world.mp3",
+        "bookImage": "https://example.com/brave_new_world.jpg",
+        "bookId": "1009",
+        "bookAuthor": "Aldous Huxley",
+        "bookDescription": "A dystopian novel exploring a future society where people are engineered for specific roles.",
+        "isPlaying": false,
+        "languagetype": "English",
+        "ratings": [
+            {
+                "name": "Reader19",
+                "rating": 4.7
+            },
+            {
+                "name": "Reader20",
+                "rating": 4.5
+            }
+        ],
+        "genre": "Dystopian Fiction",
+        "id": "e029"
+    },
+    {
+        "bookName": "The Hobbit",
+        "audioPath": "https://yourdomain.com/audio/the_hobbit.mp3",
+        "bookImage": "https://example.com/the_hobbit.jpg",
+        "bookId": "1010",
+        "bookAuthor": "J.R.R. Tolkien",
+        "bookDescription": "A fantasy novel that follows the journey of Bilbo Baggins.",
+        "isPlaying": false,
+        "languagetype": "English",
+        "ratings": [
+            {
+                "name": "Reader21",
+                "rating": 4.8
+            },
+            {
+                "name": "Reader22",
+                "rating": 4.6
+            }
+        ],
+        "genre": "Fantasy",
+        "id": "e030"
+    },
+        {
+            "bookName": "The Silent Patient",
+            "audioPath": "https://yourdomain.com/audio/silent_patient.mp3",
+            "bookImage": "https://example.com/silent_patient.jpg",
+            "bookId": "1011",
+            "bookAuthor": "Alex Michaelides",
+            "bookDescription": "A psychological thriller about a woman's act of sudden violence and her subsequent silence.",
+            "isPlaying": false,
+            "languagetype": "English",
+            "ratings": [
+                {
+                    "name": "Reader23",
+                    "rating": 4.6
+                },
+                {
+                    "name": "Reader24",
+                    "rating": 4.8
+                }
+            ],
+            "genre": "Thriller",
+            "id": "e031"
+        },
+        {
+            "bookName": "The Girl on the Train",
+            "audioPath": "https://yourdomain.com/audio/girl_on_the_train.mp3",
+            "bookImage": "https://example.com/girl_on_the_train.jpg",
+            "bookId": "1013",
+            "bookAuthor": "Paula Hawkins",
+            "bookDescription": "A psychological thriller that explores the lives of three women intertwined by a train journey.",
+            "isPlaying": false,
+            "languagetype": "English",
+            "ratings": [
+                {
+                    "name": "Reader27",
+                    "rating": 4.5
+                },
+                {
+                    "name": "Reader28",
+                    "rating": 4.2
+                }
+            ],
+            "genre": "Thriller",
+            "id": "e033"
+        },
+            {
+                "bookName": "The 7 Habits of Highly Effective People",
+                "audioPath": "https://yourdomain.com/audio/seven_habits.mp3",
+                "bookImage": "https://example.com/seven_habits.jpg",
+                "bookId": "1032",
+                "bookAuthor": "Stephen R. Covey",
+                "bookDescription": "A classic motivational book that outlines seven habits for personal and professional effectiveness.",
+                "isPlaying": false,
+                "languagetype": "English",
+                "ratings": [
+                    {
+                        "name": "Reader65",
+                        "rating": 4.7
+                    },
+                    {
+                        "name": "Reader66",
+                        "rating": 4.6
+                    }
+                ],
+                "genre": "Motivation",
+                "id": "e052"
+            },
+            
+                {
+                    "bookName": "Psycho",
+                    "audioPath": "https://yourdomain.com/audio/psycho.mp3",
+                    "bookImage": "https://example.com/psycho.jpg",
+                    "bookId": "1036",
+                    "bookAuthor": "Robert Bloch",
+                    "bookDescription": "A psychological horror novel that inspired the classic Hitchcock film.",
+                    "isPlaying": false,
+                    "languagetype": "English",
+                    "ratings": [
+                        {
+                            "name": "Reader71",
+                            "rating": 4.6
+                        },
+                        {
+                            "name": "Reader72",
+                            "rating": 4.4
+                        }
+                    ],
+                    "genre": "Horror",
+                    "id": "e056"
+                },
+                {
+                    "bookName": "Pet Sematary",
+                    "audioPath": "https://yourdomain.com/audio/pet_sematary.mp3",
+                    "bookImage": "https://example.com/pet_sematary.jpg",
+                    "bookId": "1037",
+                    "bookAuthor": "Stephen King",
+                    "bookDescription": "A horror novel about a burial ground with the power to bring the dead back to life.",
+                    "isPlaying": false,
+                    "languagetype": "English",
+                    "ratings": [
+                        {
+                            "name": "Reader73",
+                            "rating": 4.7
+                        },
+                        {
+                            "name": "Reader74",
+                            "rating": 4.5
+                        }
+                    ],
+                    "genre": "Horror",
+                    "id": "e057"
+                },
+                
+                    {
+                        "bookName": "Harry Potter and the Sorcerer's Stone",
+                        "audioPath": "https://yourdomain.com/audio/harry_potter.mp3",
+                        "bookImage": "https://example.com/harry_potter.jpg",
+                        "bookId": "1041",
+                        "bookAuthor": "J.K. Rowling",
+                        "bookDescription": "The first book in the beloved Harry Potter series, introducing readers to the magical world of Hogwarts.",
+                        "isPlaying": false,
+                        "languagetype": "English",
+                        "ratings": [
+                            {
+                                "name": "Reader81",
+                                "rating": 4.9
+                            },
+                            {
+                                "name": "Reader82",
+                                "rating": 4.8
+                            }
+                        ],
+                        "genre": "Fantasy",
+                        "id": "e061"
+                    },
+                    {
+                        "bookName": "The Name of the Wind",
+                        "audioPath": "https://yourdomain.com/audio/name_of_the_wind.mp3",
+                        "bookImage": "https://example.com/name_of_the_wind.jpg",
+                        "bookId": "1042",
+                        "bookAuthor": "Patrick Rothfuss",
+                        "bookDescription": "An epic fantasy novel narrating the life story of the legendary figure Kvothe.",
+                        "isPlaying": false,
+                        "languagetype": "English",
+                        "ratings": [
+                            {
+                                "name": "Reader83",
+                                "rating": 4.7
+                            },
+                            {
+                                "name": "Reader84",
+                                "rating": 4.6
+                            }
+                        ],
+                        "genre": "Fantasy",
+                        "id": "e062"
+                    }
+
+                ]
+        
+        
+        
+    
+
+
